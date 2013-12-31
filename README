@@ -1,0 +1,1 @@
+This project uses Rich Faces, MySQL, JBOSS. It demonstrate the use of ManagedBeans as baking code of xhtml page with facelets and Rich Faces, EJB (Staless and Entity).
